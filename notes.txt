@@ -8,4 +8,7 @@ some other changes - we are done with the login feature!!
 
 Corey finished a set of changes for a new feature
 
-some content snuck in by another developer, drat!!
+
+Added blog content
+
+some content snuck in by another developer!!
