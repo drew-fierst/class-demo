@@ -1,0 +1,12 @@
+# this is a comment
+# exclude user-specific files
+*.user
+*.suo
+
+# exclude build results
+[Dd]ebug/
+Release/
+release/
+[Bb]in/
+
+
