@@ -1,3 +1,6 @@
 TODO: make the site super cool
 
 we need content for the home page
+
+here is some code for a feature that is not yet finished.
+
